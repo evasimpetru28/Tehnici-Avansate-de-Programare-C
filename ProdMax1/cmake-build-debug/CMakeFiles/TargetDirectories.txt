@@ -1,0 +1,3 @@
+/home/eva/CLionProjects/TAP/ProdMax1/cmake-build-debug/CMakeFiles/ProdMax1.dir
+/home/eva/CLionProjects/TAP/ProdMax1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/eva/CLionProjects/TAP/ProdMax1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
