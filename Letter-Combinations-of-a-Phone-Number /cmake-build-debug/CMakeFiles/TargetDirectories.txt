@@ -1,0 +1,3 @@
+/home/eva/CLionProjects/Tehnici-Avansate-de-Programare-C-/Letter-Combinations-of-a-Phone-Number /cmake-build-debug/CMakeFiles/Letter_Combinations_of_a_Phone_Number_.dir
+/home/eva/CLionProjects/Tehnici-Avansate-de-Programare-C-/Letter-Combinations-of-a-Phone-Number /cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/eva/CLionProjects/Tehnici-Avansate-de-Programare-C-/Letter-Combinations-of-a-Phone-Number /cmake-build-debug/CMakeFiles/rebuild_cache.dir

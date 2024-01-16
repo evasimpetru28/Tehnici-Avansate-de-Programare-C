@@ -1,0 +1,1 @@
+CMakeLists.txt not found in /home/eva/CLionProjects/Tehnici-Avansate-de-Programare-C- Select CMakeLists.txt

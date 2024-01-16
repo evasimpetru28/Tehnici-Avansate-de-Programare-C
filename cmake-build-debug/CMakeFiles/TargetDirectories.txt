@@ -1,0 +1,3 @@
+/home/eva/CLionProjects/Tehnici-Avansate-de-Programare-C-/cmake-build-debug/CMakeFiles/Tehnici_Avansate_de_Programare_C_.dir
+/home/eva/CLionProjects/Tehnici-Avansate-de-Programare-C-/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/eva/CLionProjects/Tehnici-Avansate-de-Programare-C-/cmake-build-debug/CMakeFiles/rebuild_cache.dir
