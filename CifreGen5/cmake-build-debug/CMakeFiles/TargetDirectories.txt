@@ -1,0 +1,3 @@
+/home/eva/CLionProjects/TAP/CifreGen5/cmake-build-debug/CMakeFiles/CifreGen5.dir
+/home/eva/CLionProjects/TAP/CifreGen5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/eva/CLionProjects/TAP/CifreGen5/cmake-build-debug/CMakeFiles/rebuild_cache.dir

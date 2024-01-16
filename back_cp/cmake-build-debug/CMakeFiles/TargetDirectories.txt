@@ -1,0 +1,3 @@
+/home/eva/CLionProjects/TAP/back_cp/cmake-build-debug/CMakeFiles/back_cp.dir
+/home/eva/CLionProjects/TAP/back_cp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/eva/CLionProjects/TAP/back_cp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
